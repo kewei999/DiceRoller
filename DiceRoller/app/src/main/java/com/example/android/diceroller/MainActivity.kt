@@ -30,7 +30,7 @@ import java.util.*
  * value between 1 and 6.
  */
 class MainActivity : AppCompatActivity() {
-
+//zzz
     lateinit var diceImage : ImageView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
